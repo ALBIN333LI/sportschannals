@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,||||||||  (     BeIN     )  ||||||||
+http://abc.myplay.live:8000/live/BOX-889/8890/1.ts
+#EXTINF:-1,beIN SPORTS NEWS HD
+http://abc.myplay.live:8000/live/BOX-889/8890/4029.ts
+#EXTINF:-1,beIN SPORTS 1HD
+http://abc.myplay.live:8000/live/BOX-889/8890/50.ts
+#EXTINF:-1,beIN SPORTS 1HD Low
+http://abc.myplay.live:8000/live/BOX-889/8890/36.ts
+#EXTINF:-1,beIN SPORTS 2HD
+http://abc.myplay.live:8000/live/BOX-889/8890/49.ts
+#EXTINF:-1,beIN SPORTS 2HD Low
+http://abc.myplay.live:8000/live/BOX-889/8890/35.ts
+#EXTINF:-1,beIN SPORTS 3HD
+http://abc.myplay.live:8000/live/BOX-889/8890/48.ts
+#EXTINF:-1,beIN SPORTS 3HD Low
+http://abc.myplay.live:8000/live/BOX-889/8890/34.ts
+#EXTINF:-1,beIN SPORTS 4HD
+http://abc.myplay.live:8000/live/BOX-889/8890/47.ts
+#EXTINF:-1,beIN SPORTS 4HD Low
+http://abc.myplay.live:8000/live/BOX-889/8890/26.ts
+#EXTINF:-1,beIN SPORTS 5HD
+http://abc.myplay.live:8000/live/BOX-889/8890/46.ts
+#EXTINF:-1,beIN SPORTS 6HD
+http://abc.myplay.live:8000/live/BOX-889/8890/45.ts
+#EXTINF:-1,beIN SPORTS 7HD
+http://abc.myplay.live:8000/live/BOX-889/8890/44.ts
+#EXTINF:-1,beIN SPORTS 8HD
+http://abc.myplay.live:8000/live/BOX-889/8890/43.ts
+#EXTINF:-1,beIN SPORTS 9HD
+http://abc.myplay.live:8000/live/BOX-889/8890/42.ts
+#EXTINF:-1,beIN SPORTS 10HD
+http://abc.myplay.live:8000/live/BOX-889/8890/41.ts
+#EXTINF:-1,beIN SPORTS 11HD EN
+http://abc.myplay.live:8000/live/BOX-889/8890/40.ts
+#EXTINF:-1,beIN SPORTS 12HD EN
+http://abc.myplay.live:8000/live/BOX-889/8890/39.ts
+#EXTINF:-1,beIN SPORTS 13HD EN
+http://abc.myplay.live:8000/live/BOX-889/8890/38.ts
+#EXTINF:-1,beIN SPORTS 14HD FR
+http://abc.myplay.live:8000/live/BOX-889/8890/37.ts
+#EXTINF:-1,beIN SPORTS NBA
+http://abc.myplay.live:8000/live/BOX-889/8890/28.ts
+#EXTINF:-1,beIN MAX 1HD
+http://abc.myplay.live:8000/live/BOX-889/8890/2626.ts
+#EXTINF:-1,beIN MAX 2HD
+http://abc.myplay.live:8000/live/BOX-889/8890/2627.ts
+#EXTINF:-1,||||||||  (   beIN MOVIES   )  ||||||||
+http://abc.myplay.live:8000/live/BOX-889/8890/607.ts
+#EXTINF:-1,beIN SERIES HD
+http://abc.myplay.live:8000/live/BOX-889/8890/2695.ts
+#EXTINF:-1,beIN MOVIES 1 HD
+http://abc.myplay.live:8000/live/BOX-889/8890/33.ts
+#EXTINF:-1,beIN MOVIES 2 HD
+http://abc.myplay.live:8000/live/BOX-889/8890/32.ts
+#EXTINF:-1,beIN MOVIES 3 HD
+http://abc.myplay.live:8000/live/BOX-889/8890/31.ts
+#EXTINF:-1,beIN MOVIES 4 HD
+http://abc.myplay.live:8000/live/BOX-889/8890/30.ts
+#EXTINF:-1,beIN Star Movies HD
+http://abc.myplay.live:8000/live/BOX-889/8890/29.ts
+#EXTINF:-1,beIN Star World HD
+http://abc.myplay.live:8000/live/BOX-889/8890/14.ts
+#EXTINF:-1,beIN Fox Movies HD
+http://abc.myplay.live:8000/live/BOX-889/8890/27.ts
+#EXTINF:-1,beIN Fox Action Movies HD
+http://abc.myplay.live:8000/live/BOX-889/8890/2914.ts
+#EXTINF:-1,beIN Fox Family Movies HD
+http://abc.myplay.live:8000/live/BOX-889/8890/2915.ts
